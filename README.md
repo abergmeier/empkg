@@ -1,0 +1,4 @@
+empkg
+=====
+
+Emscripten Package Manager
